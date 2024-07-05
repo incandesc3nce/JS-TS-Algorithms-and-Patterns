@@ -14,6 +14,7 @@ This repository contains the most common algorithms, data structures and design 
 1. <code>data-structures</code>
     * [Queue JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/queue/queue.js)
     * [Stack JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/stack/stack.js)
+    * [Singly Linked List JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/singly-linked-list/singlyLinkedList.js)
 
 2. <code>searching</code>
     * [Linear Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/linear-search/linearSearch.js)
