@@ -4,6 +4,7 @@
  * In a FIFO data structure, the first element added to the queue will be the first one to be removed.
  *
  * Time complexity:
+ * Access: O(n)
  * Search: O(n)
  * Insert: O(1)
  * Delete: O(1)
