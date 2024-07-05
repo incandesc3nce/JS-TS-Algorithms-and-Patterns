@@ -1,7 +1,7 @@
 /**
  * Linear search is a search algorithm that finds sequentially checks each element of the array until
  * a match is found or the whole array has been searched.
- * How it works:
+ * How does it work:
  * 1. Check if arr[i] equals to target.
  * 2. If they are not equal, increase i by 1.
  * 3. If they are equal, return position of the item (i).

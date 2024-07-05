@@ -1,6 +1,6 @@
 /**
  * Binary search is a search algorithm that finds the position of a target value within a sorted array.
- * How it works:
+ * How does it work:
  * 1. Binary search compares the target value to the middle element of the array. 
  * 2. If they are not equal, the half in which the target cannot lie is eliminated and the search continues 
  * on the remaining half, again taking the middle element to compare to the target value.
