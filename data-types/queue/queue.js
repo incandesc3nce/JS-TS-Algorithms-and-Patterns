@@ -1,7 +1,7 @@
 /**
- * Queue is an abstract data type that can be modified by adding entities to one end of the sequence
- * and removing entities from the other end of the sequence, making it a first-in-first-out (FIFO)
- * data structure. In a FIFO data structure, the first element added to the queue will be the first one to be removed.
+ * Queue is an abstract data type where each new item is added to the end and each item is removed 
+ * from the start of queue, making it a first-in-first-out (FIFO) data structure. 
+ * In a FIFO data structure, the first element added to the queue will be the first one to be removed.
  *
  * Time complexity:
  * Search: O(n)
