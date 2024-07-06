@@ -5,7 +5,11 @@
  * greater than the parent node. This hierarchical structure allows for efficient searching, insertion, 
  * and deletion operations on the data stored in the tree.
  * 
- * Time Complexity: O(log(n))
+ * Time Complexity: 
+ * Access, Search, Insert, Delete:
+ * Average: O(log(n))
+ * Worst: O(n) 
+ *
  * Space Complexity: O(n)
  */
 
