@@ -4,6 +4,11 @@ This repository contains the most common algorithms, data structures and design 
 
 **TS and the majority of content is TBA.**
 
+**TODO**:
+   * fill content
+   * make it an npm package
+
+
 ## Repository structure:
 1. <code>data-structures</code> - Data structures (stack, heap, linked list etc.)
 2. <code>searching</code> - Search algorithms (linear, binary, BFS, DFS etc.)
