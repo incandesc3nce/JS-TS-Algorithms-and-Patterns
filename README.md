@@ -10,7 +10,7 @@ This repository contains the most common algorithms, data structures and design 
 
 
 ## Repository structure:
-1. <code>data-structures</code> - Data structures (stack, heap, linked list etc.)
+1. <code>data-structures</code> - Data structures (stack, graph, linked list etc.)
 2. <code>searching</code> - Search algorithms (linear, binary, BFS, DFS etc.)
 3. <code>sorting</code> - Sorting algorithms
 4. **(TBA)** <code>design-patterns</code> - Design patterns (Proxy, Observer, Facade etc.)
@@ -23,6 +23,7 @@ This repository contains the most common algorithms, data structures and design 
     * [Doubly Linked List JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/doubly-linked-list/doublyLinkedList.js)
     * [Hash Table JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/hash-map/hashMap.js)
     * [Binary Search Tree JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/binary-search-tree/binarySearchTree.js)
+    * [Graph JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/graph/graph.js)
 
 
 2. <code>searching</code>
