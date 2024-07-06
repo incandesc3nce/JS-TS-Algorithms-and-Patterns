@@ -21,6 +21,7 @@ This repository contains the most common algorithms, data structures and design 
     * [Stack JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/stack/stack.js)
     * [Singly Linked List JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/singly-linked-list/singlyLinkedList.js)
     * [Doubly Linked List JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/doubly-linked-list/doublyLinkedList.js)
+    * [Hash Table JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/hash-map/hashMap.js)
 
 
 2. <code>searching</code>
