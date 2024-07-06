@@ -38,7 +38,8 @@ This repository contains the most common algorithms, data structures and design 
 4. <code>design-patterns</code>
     * [none yet](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/)
 
-5. <code>
+5. <code>other</code>
+    * [Knight Travails](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/other/knightTravails/knightMoves.js)
 
 ## Licence:
       MIT License
