@@ -14,6 +14,7 @@ This repository contains the most common algorithms, data structures and design 
 2. <code>searching</code> - Search algorithms (linear, binary, BFS, DFS etc.)
 3. <code>sorting</code> - Sorting algorithms
 4. **(TBA)** <code>design-patterns</code> - Design patterns (Proxy, Observer, Facade etc.)
+5. <code>other</code> - Various coding problems and algorithms that are not related to any of the categories 
 
 ## Content:
 1. <code>data-structures</code>
@@ -33,6 +34,11 @@ This repository contains the most common algorithms, data structures and design 
 3. <code>sorting</code>
     * [Bubble Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/bubbleSort/bubbleSort.js)
     * [Merge Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/mergeSort/mergeSort.js)
+
+4. <code>design-patterns</code>
+    * [none yet](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/)
+
+5. <code>
 
 ## Licence:
       MIT License
