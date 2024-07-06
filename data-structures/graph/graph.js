@@ -1,3 +1,8 @@
+/**
+ * Graph is a data structure that can be used to represent complex, non-linear relationships. 
+ * A graph consists of nodes (also called vertices) that are connected by edges (also called arcs).
+ */
+
 import Queue from "../queue/queue";
 
 export default class Graph {
