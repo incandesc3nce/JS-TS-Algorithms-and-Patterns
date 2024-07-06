@@ -23,6 +23,7 @@ This repository contains the most common algorithms, data structures and design 
     * [Binary Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/binary-search/binarySearch.js)
 
 3. <code>sorting</code>
+    * [Bubble Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/bubbleSort/bubbleSort.js)
     * [Merge Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/mergeSort/mergeSort.js)
 
 ## Licence:
