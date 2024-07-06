@@ -10,7 +10,7 @@
  * Space complexity: O(1) 
  */
 
-function binarySearch(arr, target) {
+export default function binarySearch(arr, target) {
   let start = 0;
   let end = arr.length - 1;
 

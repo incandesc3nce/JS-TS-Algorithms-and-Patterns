@@ -1,6 +1,6 @@
 import Queue from "../queue/queue";
 
-class Graph {
+export default class Graph {
   constructor(verticesAmount) {
     this.verticesAmount = verticesAmount;
     this.adjList = new Map();

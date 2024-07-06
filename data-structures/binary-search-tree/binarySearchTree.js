@@ -33,7 +33,7 @@ function buildTree(arr, start, end) {
   return root;
 }
 
-class BinarySearchTree {
+export default class BinarySearchTree {
   constructor(arr) {
     this.root = buildTree(arr, 0, arr.length - 1);
   }

@@ -12,7 +12,7 @@
  * Space complexity: O(n)
  */
 
-class Queue {
+export default class Queue {
   constructor() {
     this.items = [];
   }

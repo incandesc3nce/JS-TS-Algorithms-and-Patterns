@@ -12,7 +12,7 @@
  * Space complexity: O(n)
  */
 
-class Stack {
+export default class Stack {
   constructor() {
     this.items = [];
   }

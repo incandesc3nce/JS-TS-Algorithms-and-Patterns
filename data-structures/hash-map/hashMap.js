@@ -19,7 +19,7 @@ class Node {
   }
 }
 
-class HashMap {
+export default class HashMap {
   constructor() {
     this.bucketsArray = new Array(16).fill(null);
     this.loadFactor = 0.75;
