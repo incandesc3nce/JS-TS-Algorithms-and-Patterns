@@ -1,17 +1,19 @@
 /**
- * Binary Search Tree is a data structure used for organizing and storing data in a sorted manner. 
- * Each node in a Binary Search Tree has at most two children, a left child and a right child, with 
- * the left child containing values less than the parent node and the right child containing values 
- * greater than the parent node. This hierarchical structure allows for efficient searching, insertion, 
+ * Binary Search Tree is a data structure used for organizing and storing data in a sorted manner.
+ * Each node in a Binary Search Tree has at most two children, a left child and a right child, with
+ * the left child containing values less than the parent node and the right child containing values
+ * greater than the parent node. This hierarchical structure allows for efficient searching, insertion,
  * and deletion operations on the data stored in the tree.
- * 
- * Time Complexity: 
+ *
+ * Time Complexity:
  * Access, Search, Insert, Delete:
  * Average: O(log(n))
- * Worst: O(n) 
+ * Worst: O(n)
  *
  * Space Complexity: O(n)
  */
+
+import Queue from "../queue/queue";
 
 class Node {
   constructor(value) {
@@ -100,19 +102,20 @@ export default class BinarySearchTree {
     if (this.root === null) return;
 
     const array = [];
-    const queue = [];
+    const queue = new Queue();
     let node = this.root;
-    queue.push(node);
+    queue.enqueue(node);
 
     while (queue.length > 0) {
-      node = queue[0];
+      node = queue.peek();
 
       if (callback) callback(node);
       array.push(node.value);
 
       if (node.left) queue.push(node.left);
       if (node.right) queue.push(node.right);
-      queue.shift();
+
+      queue.dequeue();
     }
 
     return array;
