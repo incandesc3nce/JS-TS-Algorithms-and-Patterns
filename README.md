@@ -31,6 +31,7 @@ This repository contains the most common algorithms, data structures and design 
     * [Linear Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/linear-search/linearSearch.js)
     * [Binary Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/binary-search/binarySearch.js)
     * [Breadth First Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/breadth-first-search/bfs.js)
+    * [Depth First Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/depth-first-search/dfs.js)
 
 3. <code>sorting</code>
     * [Bubble Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/bubbleSort/bubbleSort.js)
