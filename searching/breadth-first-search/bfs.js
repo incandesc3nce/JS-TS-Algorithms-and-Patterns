@@ -3,7 +3,7 @@
  * It involves visiting all the connected nodes of a graph in a level-by-level manner.
  */
 
-function bfs(startNode, adjList) {
+export default function bfs(startNode, adjList) {
   const queue = [];
   const visited = new Array(Object.keys(adjList).length).fill(false);
 
