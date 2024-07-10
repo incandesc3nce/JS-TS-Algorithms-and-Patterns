@@ -1,0 +1,15 @@
+{
+  "name": "js-ts-dsa",
+  "version": "1.0.0",
+  "description": "This repository contains the most common algorithms, data structures and design patterns templates written in JS and TS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "incandesc3nce <incandesc3ncee@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
