@@ -1,5 +1,5 @@
 /**
- * Facade is a structural design pattern that provides a simplified (but limited) 
+ * Facade is a structural design pattern that provides a simplified (but limited)
  * interface to a complex system of classes, library or framework.
  *
  * The Facade class provides a simple interface to the complex logic of one or
@@ -58,5 +58,10 @@ class Facade {
  */
 
 const facade = new Facade(new Subsystem1(), new Subsystem2());
+
+/**
+ * also can be done with "const facade = new Facade();"
+ * to hide the complexity of the subsystems even more
+ */
 
 console.log(facade.operation());
