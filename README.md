@@ -13,7 +13,7 @@ This repository contains the most common algorithms, data structures and design 
 1. <code>data-structures</code> - Data structures (stack, graph, linked list etc.)
 2. <code>searching</code> - Search algorithms (linear, binary, BFS, DFS etc.)
 3. <code>sorting</code> - Sorting algorithms
-4. **(TBA)** <code>design-patterns</code> - Design patterns (Proxy, Observer, Facade etc.)
+4. <code>design-patterns</code> - Design patterns (Proxy, Observer, Facade etc.)
 5. <code>other</code> - Various coding problems and algorithms that are not related to any of the categories 
 
 ## Content:
