@@ -26,7 +26,6 @@ This repository contains the most common algorithms, data structures and design 
     * [Binary Search Tree JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/binary-search-tree/binarySearchTree.js)
     * [Graph JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/data-structures/graph/graph.js)
 
-
 2. <code>searching</code>
     * [Linear Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/linear-search/linearSearch.js)
     * [Binary Search JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/searching/binary-search/binarySearch.js)
@@ -38,8 +37,11 @@ This repository contains the most common algorithms, data structures and design 
     * [Merge Sort JS](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/sorting/mergeSort/mergeSort.js)
 
 4. <code>design-patterns</code>
+    * [Adapter](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/adapter)
     * [Builder](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/builder)
     * [Facade](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/facade)
+    * [Observer](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/observer)
+    * [Proxy](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/proxy)
 
 5. <code>other</code>
     * [Knight Travails](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/other/knightTravails/knightMoves.js)
