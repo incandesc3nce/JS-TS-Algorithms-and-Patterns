@@ -42,6 +42,8 @@ This repository contains the most common algorithms, data structures and design 
     * [Facade](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/facade)
     * [Observer](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/observer)
     * [Proxy](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/proxy)
+    * [Singleton](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/tree/main/design-patterns/singleton)
+    
 
 5. <code>other</code>
     * [Knight Travails](https://github.com/incandesc3nce/JS-TS-Algorithms-and-Patterns/blob/main/other/knightTravails/knightMoves.js)
